@@ -16,7 +16,14 @@ PORT      STATE SERVICE
 
 Nmap done: 1 IP address (1 host up) scanned in 77.61 seconds
 
-# Nmap scan report for scanme.nmap.org (45.33.32.156)
+<!-- 
+DUMMY IP: 45.33.32.156
+
+from:
+
+Nmap scan report for scanme.nmap.org (45.33.32.156) 
+
+-->
 
 ┌──(kali㉿kali)-[~]
 └─$ nmap 45.33.32.156   
