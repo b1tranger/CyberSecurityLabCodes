@@ -1,3 +1,4 @@
+```
 ┌──(kali㉿kali)-[~]
 └─$ ip addr
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
@@ -14,4 +15,11 @@
        valid_lft forever preferred_lft forever
                                                                              
 ┌──(kali㉿kali)-[~]
-└─$ 
+└─$ sudo wireshark
+[sudo] password for kali: 
+ ** (wireshark:12191) 06:56:29.944726 [GUI WARNING] -- Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+
+
+
+
+```
