@@ -25,6 +25,8 @@
  ** (wireshark:13643) 06:59:55.221146 [Capture MESSAGE] -- Capture Start ...
  ** (wireshark:13643) 06:59:55.255203 [Capture MESSAGE] -- Capture started
  ** (wireshark:13643) 06:59:55.255225 [Capture MESSAGE] -- File: "/tmp/wireshark_eth0Y4KLV3.pcapng"
+ ** (wireshark:13643) 07:58:38.248216 [Capture MESSAGE] -- Capture Stop ...
+ ** (wireshark:13643) 07:58:38.297547 [Capture MESSAGE] -- Capture stopped.
 
 
 
