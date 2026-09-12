@@ -19,6 +19,12 @@
 [sudo] password for kali: 
  ** (wireshark:12191) 06:56:29.944726 [GUI WARNING] -- Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
 
+┌──(kali㉿kali)-[~]
+└─$ sudo wireshark
+ ** (wireshark:13643) 06:59:07.366043 [GUI WARNING] -- Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+ ** (wireshark:13643) 06:59:55.221146 [Capture MESSAGE] -- Capture Start ...
+ ** (wireshark:13643) 06:59:55.255203 [Capture MESSAGE] -- Capture started
+ ** (wireshark:13643) 06:59:55.255225 [Capture MESSAGE] -- File: "/tmp/wireshark_eth0Y4KLV3.pcapng"
 
 
 
